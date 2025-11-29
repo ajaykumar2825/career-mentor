@@ -1,5 +1,3 @@
-Perfect — now that I see your full Streamlit code, I can craft a **professional README** that matches your project. Here’s a polished draft you can drop straight into your repo:
-
 ---
 
 # 🎓 Career Mentor App
