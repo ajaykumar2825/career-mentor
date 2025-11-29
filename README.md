@@ -75,7 +75,7 @@ career-mentor-app/
 ---
 ---
 ## live demo 
-<a href = https://career-mentor-h4a688mkbzuwcs8etyrlyw.streamlit.app/> click here for </a>
+<a href = https://career-mentor-h4a688mkbzuwcs8etyrlyw.streamlit.app/> try it here! </a>
 ---
 ## 🤝 Contributing
 Contributions are welcome!  
